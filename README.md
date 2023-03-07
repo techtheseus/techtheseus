@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **thetechtheseus@gmail.com**
 
-- ⚡ Fun fact **I'm kinda good at chess?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
