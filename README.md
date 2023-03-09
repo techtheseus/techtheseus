@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, SwiftUI**
 
-- 👨‍💻 All of my projects are available at [whybhav.live](whybhav.live)
+- 👨‍💻 All of my projects are available at [whybhav.live](https://whybhav.live)
 
 - 📫 How to reach me **thetechtheseus@gmail.com**
 
