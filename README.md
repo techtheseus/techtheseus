@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
-<h3 align="center">An iOS developer from India . Operations Lead @ Google Developer Student Clubs - LPU</h3>
+<h3 align="center">An iOS developer from India . Former Operations Lead @ Google Developer Student Club,LPU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techtheseus&label=Profile%20views&color=0e75b6&style=flat" alt="techtheseus" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, SwiftUI**
 
-- 👨‍💻 All of my projects are available at [whybhav.live](https://whybhav.live)
+- 👨‍💻 All of my projects are available at [whybhav.in](https://whybhav.live)
 
 - 📫 How to reach me **thetechtheseus@gmail.com**
 
@@ -17,11 +17,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/techtheseus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="techtheseus" height="30" width="40" /></a> -->
-<a href="https://twitter.com/techtheseus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techtheseus" height="30" width="40" /></a>
+<a href="https://twitter.com/reallywhybhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techtheseus" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/whybhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="whybhav" height="30" width="40" /></a>
 <!-- <a href="https://stackoverflow.com/users/21319327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21319327" height="30" width="40" /></a> -->
 <!-- <a href="https://kaggle.com/techtheseus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="techtheseus" height="30" width="40" /></a> -->
-<a href="https://instagram.com/tech.theseus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech.theseus" height="30" width="40" /></a>
+<a href="https://instagram.com/reallywhybhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech.theseus" height="30" width="40" /></a>
 <!-- <a href="https://medium.com/@reallywhybhav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@reallywhybhav" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/c/https://www.youtube.com/@techtheseus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techtheseus" height="30" width="40" /></a> -->
 <!-- <a href="https://www.codechef.com/users/techtheseus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="techtheseus" height="30" width="40" /></a> -->
