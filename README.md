@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techtheseus&label=Profile%20views&color=0e75b6&style=flat" alt="techtheseus" /> </p>
 
-<p align="left"> <a href="https://twitter.com/techtheseus" target="blank"><img src="https://img.shields.io/twitter/follow/techtheseus?logo=twitter&style=for-the-badge" alt="techtheseus" /></a> </p>
+<p align="left"> <a href="https://twitter.com/reallywhybhav" target="blank"><img src="https://img.shields.io/twitter/follow/reallywhybhav?logo=twitter&style=for-the-badge" alt="reallywhybhav" /></a> </p>
 
 - 🔭 I’m currently working on **Designing an ML-powered assistive technology for people with cognitive and mental disabilities.**
 
